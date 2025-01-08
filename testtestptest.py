@@ -1,1 +1,1 @@
-print ("testก่อนสอบ")
+print ("testสร็จจจบ")
